@@ -19,9 +19,9 @@
 This **Power BI dashboard** delivers a complete RFM (Recency, Frequency, Monetary) analysis on **TheLook**, a fictional fashion e-commerce platform. Using the public BigQuery dataset, the project segments 66,007 customers into 10 actionable groups, highlights revenue concentration, and provides clear marketing recommendations to drive retention and growth.
 
 **Key Business Impact**  
-- **Champions** (19.25% of customers) generate **29.75%** of total revenue ($2.40M).  
-- **Can’t Lose Them** segment contributes **15.76%** of revenue but shows very low recency.  
-- High-value segments (Champions + Can’t Lose Them + Loyal Customers) = **~57%** of revenue from  **~40%** of customers.  
+- **Champions** (19.16% of customers) generate **34.33%** of total revenue ($2.77M).  
+- **Can’t Lose Them** segment contributes **22.29%** of revenue but shows very low recency.  
+- High-value segments (Champions + Can’t Lose Them + Loyal Customers) = **~71%** of revenue from  **~40%** of customers.  
 - Identified win-back potential for targeted campaigns.
 
 ## Dataset
@@ -69,14 +69,14 @@ Customers are scored 1–5 (quintiles) on:
 - **Avg Monetary**: $122.39
 
 **Revenue Contribution by Segment** (top 3):
-- Champions: $2.40M (29.75%)
-- Can’t Lose Them: $1.27M (15.76%)
-- Loyal Customers: $982K (12.15%)
+- Champions: $2.77M (34.33%)
+- Can’t Lose Them: $1.80M (22.29%)
+- Loyal Customers: $1.21M (15.08%)
 
 **Customer Distribution**:
-- Champions: 12,705 (19.25%)
-- Potential Loyalists: 9,129 (13.83%)
-- Can’t Lose Them: 8,244 (12.49%)
+- Champions: 12,650 (19.16%)
+- Potential Loyalists: 9,153 (13.87%)
+- Can’t Lose Them: 8,205 (12.43%)
 
 
 ## Dashboard Screenshots
